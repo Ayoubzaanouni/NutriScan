@@ -1,0 +1,333 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Admin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Admin.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\08778d0b-503a-4c35-b6b7-a6dc42cf31ca_WIN_20231029_21_53_07_Pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\08778d0b-503a-4c35-b6b7-a6dc42cf31ca_WIN_20231029_21_53_07_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\0c76ae7e-9001-4c2e-99fe-54a2299d75ae_403636725_373503095154836_6995034761068552665_n.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\0c76ae7e-9001-4c2e-99fe-54a2299d75ae_403636725_373503095154836_6995034761068552665_n.png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\18f0781f-43fa-49cd-b275-4a553a41ee86_Copy_of_Daniel_Loveland__1_-removebg-preview.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\18f0781f-43fa-49cd-b275-4a553a41ee86_Copy_of_Daniel_Loveland__1_-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\4377d1b9-561d-41e2-937f-ff8e1c6bb010_WIN_20231029_21_53_07_Pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\4377d1b9-561d-41e2-937f-ff8e1c6bb010_WIN_20231029_21_53_07_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\46c87b4a-5b9e-469a-ba6d-c5c2811b8f55_Copy of Daniel Loveland (1).png",
+      "PackagePath": "staticwebassets\\Images\\Products\\46c87b4a-5b9e-469a-ba6d-c5c2811b8f55_Copy of Daniel Loveland (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\473515d3-5c43-4f7a-8a97-0ec517c5b8e4_WIN_20231029_21_53_07_Pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\473515d3-5c43-4f7a-8a97-0ec517c5b8e4_WIN_20231029_21_53_07_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\585880c9-6173-47ab-8e71-516d5e7abfbc_images.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\585880c9-6173-47ab-8e71-516d5e7abfbc_images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\5a13c4a8-6f9b-4994-8c05-ceb63d433a99_WIN_20231022_20_27_11_Pro.mp4",
+      "PackagePath": "staticwebassets\\Images\\Products\\5a13c4a8-6f9b-4994-8c05-ceb63d433a99_WIN_20231022_20_27_11_Pro.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\6e570a80-07a9-4918-8b6e-6cbaf905968e_potatoe-4507668.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\6e570a80-07a9-4918-8b6e-6cbaf905968e_potatoe-4507668.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\96d403e2-b59e-4c97-958e-a0c6496e4ad7_WIN_20231124_18_09_48_Pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\96d403e2-b59e-4c97-958e-a0c6496e4ad7_WIN_20231124_18_09_48_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\a7ce5a71-a531-4b42-818f-947a27c35fae_potatoe-4507668.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\a7ce5a71-a531-4b42-818f-947a27c35fae_potatoe-4507668.webp"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\ad65822b-d09c-4318-ab58-9ca7dd0933e5_WIN_20231124_18_09_48_Pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ad65822b-d09c-4318-ab58-9ca7dd0933e5_WIN_20231124_18_09_48_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\afe99b67-4bc3-4d62-a9bd-853d38ed77ce_Copy of Daniel Loveland (3).png",
+      "PackagePath": "staticwebassets\\Images\\Products\\afe99b67-4bc3-4d62-a9bd-853d38ed77ce_Copy of Daniel Loveland (3).png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\bb4d2c0b-ec1c-437f-965b-72a4c1dc8771_Copy of Daniel Loveland (3).png",
+      "PackagePath": "staticwebassets\\Images\\Products\\bb4d2c0b-ec1c-437f-965b-72a4c1dc8771_Copy of Daniel Loveland (3).png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\be40e70c-0f55-4e27-b875-e5851c01bfe5_Copy of Daniel Loveland (2).png",
+      "PackagePath": "staticwebassets\\Images\\Products\\be40e70c-0f55-4e27-b875-e5851c01bfe5_Copy of Daniel Loveland (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\dc61a5f9-c776-403e-84ca-736ee51ff58c_Copy of Daniel Loveland (2).png",
+      "PackagePath": "staticwebassets\\Images\\Products\\dc61a5f9-c776-403e-84ca-736ee51ff58c_Copy of Daniel Loveland (2).png"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\Images\\Products\\eeeceff2-6739-4ca6-886b-a5d1ac59ff94_WIN_20231124_18_09_48_Pro.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\eeeceff2-6739-4ca6-886b-a5d1ac59ff94_WIN_20231124_18_09_48_Pro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ayoub\\Desktop\\9raya DSI 3.2\\SOA\\projet\\admin\\Admin\\Admin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Admin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Admin.props",
+      "PackagePath": "build\\Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Admin.props",
+      "PackagePath": "buildMultiTargeting\\Admin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Admin.props",
+      "PackagePath": "buildTransitive\\Admin.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

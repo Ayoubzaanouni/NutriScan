@@ -1,0 +1,69 @@
+﻿@using Admin.ViewModels;
+@model RegisterVM;
+
+@{
+    ViewData["title"] = "Register";
+}
+
+<div class="row d-flex align-items-center justify-content-center">
+
+    <div class="col-md-3 card p-3">
+        <h2 class="text-center text-info">Add account</h2>
+        <form asp-action="Register" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="mb-1">
+                <label asp-for="Name"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="mb-1">
+                <label asp-for="Email"></label>
+                <input asp-for="Email" class="form-control" />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            <div class="mb-1">
+                <label asp-for="Password"></label>
+                <input asp-for="Password" class="form-control" />
+                <span asp-validation-for="Password" class="text-danger"></span>
+            </div>
+            <div class="mb-1">
+                <label asp-for="ConfirmPassword"></label>
+                <input asp-for="ConfirmPassword" class="form-control" />
+                <span asp-validation-for="ConfirmPassword" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label class="control-label">Role</label>
+                <div>
+                    
+                        <label class="radio-inline">
+                            <input asp-for="Role" type="radio" name="role" value="Admin" />Admin
+                        </label>
+                    <label class="radio-inline">
+                        <input asp-for="Role" type="radio" name="role" value="Manager" checked="true" />Manager
+                    </label>
+                    
+                </div>
+            </div>
+
+            <div class="mb-1">
+                <label asp-for="Adresse"></label>
+                <textarea asp-for="Adresse" class="form-control" rows="2" ></textarea>
+                <span asp-validation-for="Adresse" class="text-danger"></span>
+            </div>
+   
+            <div class="row">
+                
+                <div class="col-4">
+                    <button type="submit" value="Login" class="btn btn-primary btn-sm float-end">Add</button>
+                </div>
+            </div>
+        </form>
+
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

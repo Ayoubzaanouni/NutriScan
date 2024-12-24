@@ -1,0 +1,39 @@
+﻿@model IEnumerable<Admin.Models.Info>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Barcode)
+            </th>
+           
+
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                    @Html.DisplayFor(modelItem => item.Barcode)
+            </td>
+            <td>
+                    <a asp-controller="Products" asp-action="Create" asp-route-barcode="@item.Barcode" asp-route-name="@item.Name">Create</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
